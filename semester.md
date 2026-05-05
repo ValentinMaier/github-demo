@@ -21,6 +21,7 @@
 - Continuous Integration und Continuos Delivery
 - Software-defined Vehicles
 - Software Engineering Trends
+- jahuhu
 
 ### Signale und Systeme
 
