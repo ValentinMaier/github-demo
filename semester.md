@@ -4,8 +4,6 @@
 
 ## Module
 
-- jahuhui
-
 ### Software-Technik
 
 - Einführung
